@@ -37,7 +37,7 @@ def get_list_image(style_name):
         for image_item in x2:
             text_file.write(image_item["image"]+"\n")
 
-    f.close()
+    text_file.close()
 
 
 f = open("./list_style.txt", "r")
@@ -51,3 +51,4 @@ for i in f:
                 get_list_image(item_style)
         except:
             pass
+f.close()
