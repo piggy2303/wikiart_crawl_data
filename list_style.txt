@@ -1,0 +1,591 @@
+
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/impressionism?select=featured">Impressionism <sup>16212</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/realism?select=featured">Realism <sup>15168</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/romanticism?select=featured">Romanticism <sup>13299</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/expressionism?select=featured">Expressionism <sup>12490</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/post-impressionism?select=featured">Post-Impressionism <sup>8021</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/art-nouveau-modern?select=featured">Art Nouveau (Modern) <sup>7377</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/surrealism?select=featured">Surrealism <sup>7340</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/baroque?select=featured">Baroque <sup>7078</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/symbolism?select=featured">Symbolism <sup>5206</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/abstract-expressionism?select=featured">Abstract Expressionism <sup>4512</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neoclassicism?select=featured">Neoclassicism <sup>4073</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/na-ve-art-primitivism?select=featured">Na&#239;ve Art (Primitivism) <sup>3823</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/rococo?select=featured">Rococo <sup>3449</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/cubism?select=featured">Cubism <sup>3304</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/northern-renaissance?select=featured">Northern Renaissance <sup>3107</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/pop-art?select=featured">Pop Art <sup>2457</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/abstract-art?select=featured">Abstract Art <sup>2132</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/mannerism-late-renaissance?select=featured">Mannerism (Late Renaissance) <sup>2091</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/minimalism?select=featured">Minimalism <sup>2036</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/art-informel?select=featured">Art Informel <sup>1888</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/ukiyo-e?select=featured">Ukiyo-e <sup>1858</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/conceptual-art?select=featured">Conceptual Art <sup>1847</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-expressionism?select=featured">Neo-Expressionism <sup>1743</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/early-renaissance?select=featured">Early Renaissance <sup>1739</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/academicism?select=featured">Academicism <sup>1652</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/high-renaissance?select=featured">High Renaissance <sup>1626</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/color-field-painting?select=featured">Color Field Painting <sup>1590</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/magic-realism?select=featured">Magic Realism <sup>1590</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/contemporary-realism?select=featured">Contemporary Realism <sup>1519</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/orientalism?select=featured">Orientalism <sup>1292</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/op-art?select=featured">Op Art <sup>1203</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/lyrical-abstraction?select=featured">Lyrical Abstraction <sup>1162</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/art-deco?select=featured">Art Deco <sup>1047</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/fauvism?select=featured">Fauvism <sup>1009</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/ink-and-wash-painting?select=featured">Ink and wash painting <sup>804</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/concretism?select=featured">Concretism <sup>782</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/kitsch?select=featured">Kitsch <sup>775</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-romanticism?select=featured">Neo-Romanticism <sup>755</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/social-realism?select=featured">Social Realism <sup>744</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/post-minimalism?select=featured">Post-Minimalism <sup>713</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/contemporary?select=featured">Contemporary <sup>703</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/socialist-realism?select=featured">Socialist Realism <sup>644</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/hard-edge-painting?select=featured">Hard Edge Painting <sup>632</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-dada?select=featured">Neo-Dada <sup>625</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-pop-art?select=featured">Neo-Pop Art <sup>607</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/tachisme?select=featured">Tachisme <sup>576</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/regionalism?select=featured">Regionalism <sup>568</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/naturalism?select=featured">Naturalism <sup>564</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/pointillism?select=featured">Pointillism <sup>554</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/constructivism?select=featured">Constructivism <sup>551</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/tenebrism?select=featured">Tenebrism <sup>538</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/transavantgarde?select=featured">Transavantgarde <sup>515</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/s-saku-hanga?select=featured">Sōsaku hanga <sup>480</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/dada?select=featured">Dada <sup>473</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/new-realism?select=featured">New Realism <sup>456</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/proto-renaissance?select=featured">Proto Renaissance <sup>446</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/light-and-space?select=featured">Light and Space <sup>434</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/figurative-expressionism?select=featured">Figurative Expressionism <sup>426</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/outsider-art?select=featured">Outsider art <sup>421</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/shin-hanga?select=featured">Shin-hanga <sup>420</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/art-brut?select=featured">Art Brut <sup>418</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/futurism?select=featured">Futurism <sup>415</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/new-european-painting?select=featured">New European Painting <sup>413</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/fantastic-realism?select=featured">Fantastic Realism <sup>412</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/divisionism?select=featured">Divisionism <sup>409</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/luminism?select=featured">Luminism <sup>399</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/photorealism?select=featured">Photorealism <sup>398</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/tonalism?select=featured">Tonalism <sup>386</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/precisionism?select=featured">Precisionism <sup>361</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/street-art?select=featured">Street art <sup>352</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/post-painterly-abstraction?select=featured">Post-Painterly Abstraction <sup>349</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/feminist-art?select=featured">Feminist Art <sup>344</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/romanesque?select=featured">Romanesque <sup>338</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/american-realism?select=featured">American Realism <sup>333</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/international-gothic?select=featured">International Gothic <sup>329</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/nouveau-r-alisme?select=featured">Nouveau R&#233;alisme <sup>323</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/hyper-realism?select=featured">Hyper-Realism <sup>309</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-figurative-art?select=featured">Neo-Figurative Art <sup>302</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/kinetic-art?select=featured">Kinetic Art <sup>296</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/orphism?select=featured">Orphism <sup>292</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-minimalism?select=featured">Neo-Minimalism <sup>285</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/byzantine?select=featured">Byzantine <sup>271</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-baroque?select=featured">Neo-baroque <sup>256</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/classicism?select=featured">Classicism <sup>253</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/synthetic-cubism?select=featured">Synthetic Cubism <sup>245</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/metaphysical-art?select=featured">Metaphysical art <sup>244</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/pictorialism?select=featured">Pictorialism <sup>243</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/muralism?select=featured">Muralism <sup>219</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/japonism?select=featured">Japonism <sup>206</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/cloisonnism?select=featured">Cloisonnism <sup>184</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/cubo-futurism?select=featured">Cubo-Futurism <sup>182</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neoplasticism?select=featured">Neoplasticism <sup>178</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/environmental-land-art?select=featured">Environmental (Land) Art <sup>175</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/purism?select=featured">Purism <sup>174</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/classical-realism?select=featured">Classical Realism <sup>174</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/spatialism?select=featured">Spatialism <sup>169</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/zen?select=featured">Zen <sup>166</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/postcolonial-art?select=featured">Postcolonial art <sup>160</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/p-d-pattern-and-decoration?select=featured">P&amp;D (Pattern and Decoration) <sup>153</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-geo?select=featured">Neo-Geo <sup>139</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/modernismo?select=featured">Modernismo <sup>137</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/suprematism?select=featured">Suprematism <sup>135</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/biedermeier?select=featured">Biedermeier <sup>134</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/hellenistic-period?select=featured">Hellenistic <sup>134</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/safavid-period?select=featured">Safavid Period <sup>130</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/suiboku-ga-0?select=featured">Sumi-e (Suiboku-ga) <sup>121</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/costumbrismo">Costumbrismo <sup>120</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/analytical-cubism">Analytical Cubism <sup>119</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/new-kingdom">New Kingdom <sup>113</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/intimism">Intimism <sup>110</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/fantasy-art">Fantasy Art <sup>109</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/verism">Verism <sup>107</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/middle-byzantine-c-850-1204">Middle Byzantine (c. 850–1204) <sup>107</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/action-painting">Action painting <sup>106</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/street-photography">Street Photography <sup>103</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-rococo">Neo-Rococo <sup>101</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-impressionism">Neo-Impressionism <sup>100</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/post-classic-c-900-1580">Post-classic (c.900-1580) <sup>99</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/early-byzantine-c-330-750">Early Byzantine (c. 330–750) <sup>96</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/lowbrow-art">Lowbrow Art <sup>95</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/macedonian-renaissance-867-1056">Macedonian Renaissance (867–1056) <sup>95</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/native-art">Native Art <sup>91</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/analytical-realism">Analytical&#160;Realism <sup>90</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/classical-period">Classical <sup>90</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-concretism">Neo-Concretism <sup>89</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/mozarabic">Mozarabic <sup>85</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/transautomatism">Transautomatism <sup>82</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/digital-art">Digital Art <sup>81</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/ottoman-period">Ottoman Period <sup>80</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/stuckism">Stuckism <sup>79</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/automatic-painting">Automatic Painting <sup>70</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/mechanistic-cubism">Mechanistic Cubism <sup>70</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/viking-art">Viking art <sup>68</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/synthetism">Synthetism <sup>64</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/maximalism">Maximalism <sup>62</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-suprematism">Neo-Suprematism <sup>59</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/nanga-bunjinga">Nanga (Bunjinga) <sup>58</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/mosan-art">Mosan art <sup>57</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/queer-art">Queer art <sup>57</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/performance-art">Performance Art <sup>53</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/junk-art">Junk Art <sup>52</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/lettrism">Lettrism <sup>52</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/late-byzantine-c-1261-1453">Late Byzantine/Palaeologan Renaissance (c. 1261–1453) <sup>52</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/cartographic-art">Cartographic Art <sup>51</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/timurid-period">Timurid Period <sup>51</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/poster-art-realism">Poster Art Realism <sup>49</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/new-casualism">New Casualism <sup>49</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/nihonga">Nihonga <sup>48</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/yamato-e">Yamato-e <sup>47</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/archaic-period">Archaic <sup>39</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/gongbi">Gongbi <sup>35</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/existential-art">Existential Art <sup>33</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/gothic">Gothic <sup>33</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/renaissance">Renaissance <sup>29</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/yoruba">Yoruba <sup>28</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/cyber-art">Cyber Art <sup>27</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/indian-space-painting">Indian Space painting <sup>27</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/documentary-photography">Documentary photography <sup>26</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/medieval-art">Medieval Art <sup>25</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/superflat">Superflat <sup>24</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/excessivism">Excessivism <sup>24</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/folk-art">Folk art <sup>24</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/cubo-expressionism">Cubo-Expressionism <sup>23</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/tubism">Tubism <sup>22</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-orthodoxism">Neo-Orthodoxism <sup>21</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/fiber-art">Fiber art <sup>20</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/neo-byzantine">Neo-Byzantine <sup>18</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/hyper-mannerism-anachronism">Hyper-Mannerism (Anachronism) <sup>17</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/mail-art">Mail Art <sup>17</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/mughal">Mughal <sup>16</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/synchromism">Synchromism <sup>16</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/sots-art">Sots Art <sup>16</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/3rd-intermediate-period">3rd Intermediate Period <sup>16</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/ilkhanid">Ilkhanid <sup>15</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/rayonism">Rayonism <sup>15</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/kano-school">Kanō school style <sup>15</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/joseon-dynasty">Joseon Dynasty <sup>14</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/nas-taliq">Nas-Taliq <sup>14</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/art-singulier">Art Singulier <sup>14</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/amarna">Amarna <sup>12</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/site-specific-art">Site-specific art <sup>11</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/miserablism">Miserablism <sup>9</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/new-medievialism">New Medievialism <sup>9</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/middle-kingdom">Middle Kingdom <sup>9</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/perceptism">Perceptism <sup>8</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/severe-style">Severe Style <sup>8</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/geometric-period">Geometric <sup>8</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/spectralism">Spectralism <sup>5</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/late-period">Late Period <sup>4</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/ptolemaic">Ptolemaic <sup>4</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/sky-art">Sky Art <sup>3</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/early-dynastic-period">Early Dynastic <sup>2</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/new-media-art">New media art <sup>2</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/early-christian">Early Christian <sup>1</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/graffiti-art">Graffiti Art <sup>1</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/old-kingdom">Old Kingdom <sup>1</sup></a>
+</li>
+<li class="dottedItem">
+<a target="_self" href="/en/paintings-by-style/2nd-intermediate-period">2nd Intermediate Period <sup>1</sup></a>
