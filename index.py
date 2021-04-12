@@ -1,3 +1,5 @@
+import os
+from PIL import Image
 import requests
 
 
@@ -15,7 +17,7 @@ def get_list_image(style_name):
     x = requests.get(
         base_url+style_name,
         params=params,
-        timeout=3
+        # timeout=3
     ).json()
 
     number_image = x["AllPaintingsCount"]
@@ -36,7 +38,7 @@ def get_list_image(style_name):
         x2 = requests.get(
             base_url+style_name,
             params=params,
-            timeout=3
+            # timeout=3
         ).json()
         x2 = x2["Paintings"]
         print(x2)
@@ -67,4 +69,30 @@ def crawl_data():
     f.close()
 
 
-crawl_data()
+# crawl_data()
+# get_list_image("abstract-art")
+
+
+def download_image(list_path):
+    f = open(list_path, "r")
+
+    list_downloaded = os.listdir("./data_image/abstract/")
+
+    arr_img = []
+    for count, i in enumerate(f):
+        file_name = "abstract_"+str(count)+".jpg"
+
+        if file_name not in list_downloaded:
+            i = i.strip()
+            print(count, i)
+            try:
+                img = Image.open(requests.get(i, stream=True, timeout=10).raw)
+                img = img.convert("RGB")
+                img = img.save("./data_image/abstract/"+file_name)
+            except:
+                print("time out or error")
+
+    f.close()
+
+
+download_image('./data/abstract-art.txt')
