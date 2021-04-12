@@ -1,3 +1,4 @@
+import pandas as pd
 import os
 from PIL import Image
 import requests
@@ -95,4 +96,6 @@ def download_image(list_path):
     f.close()
 
 
-download_image('./data/abstract-art.txt')
+# download_image('./data/abstract-art.txt')
+df = pd.read_csv("./data_csv/abstract-art.csv")
+print(df)
